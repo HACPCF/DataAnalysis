@@ -1,0 +1,5 @@
+Title: Predictive Model of athlete's gender based on race split times
+Objective: Develope a predictive model for the gender of an athlete based on her or his split times during the race
+DataSet: Boston Marathon Finisher data (2017)
+Author: HAPC
+Date: 08/12/2017
