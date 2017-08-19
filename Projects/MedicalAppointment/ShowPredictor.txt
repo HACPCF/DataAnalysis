@@ -1,2 +1,5 @@
-Author: Hugo Contreras
-Date: 2017-08-19
+Title: Predictive Model of show/no-show for medical appointments
+Objective: Develope a predictive model for a patient to show up or not to a medical appointment
+DataSet: Historical data for a hospital in Brazil (2016)
+Author: HAPC
+Date: 08/19/2017
